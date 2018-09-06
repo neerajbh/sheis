@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "574226867832",
+    "firebase_url": "https://sheistheworld-af513.firebaseio.com",
+    "project_id": "sheistheworld-af513",
+    "storage_bucket": "sheistheworld-af513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574226867832:android:3f62d8b3ed9b2a88",
+        "android_client_info": {
+          "package_name": "com.sheistheworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574226867832-amsutsd7rcee90fvo9rjf57j06qu6bda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sheistheworld",
+            "certificate_hash": "cf6c84da189c11d4251a70513b5b069000ad1908"
+          }
+        },
+        {
+          "client_id": "574226867832-qgd400pbp00p3bn5iocien00b4e0s8o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwrZ8sCiLJwr9wZrgW2Q5Lu3Tva8YrnXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574226867832-kgdeqb3nom1c97gms84sgnjo7v6asgvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
